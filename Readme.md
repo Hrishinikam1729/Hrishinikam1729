@@ -40,7 +40,6 @@ AHOY!!
 
 <div align="center">
 
-
 </div>
 
 <div>
@@ -78,7 +77,7 @@ AHOY!!
 
 ## General Stats :
 
-<img align="center" src = "https://github-readme-stats.vercel.app/api?username=hrugved06&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40">
+<img align="center" src = "https://github-readme-stats.vercel.app/api?username=Hrishinikam1729&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40">
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
  
@@ -91,7 +90,7 @@ AHOY!!
 ## Contribution Stats 
 
 <div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrugved06&theme=dark" alt="HrugVed" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishinikam1729&theme=dark" alt="Hrishi" /></p>
 </div>
 
 </div>
@@ -105,8 +104,8 @@ AHOY!!
 
 ## Repository Overview :
 
-<a href="https://github.com/hrugved06/Career-Prediction-System">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=Career-Prediction-System&theme=dark" />
+<a href="https://github.com/Hrishinikam1729/Weather_App.git">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=Hrishinikam1729&repo=Weather-App&theme=dark" />
 </a>
 
 <a href="https://github.com/hrugved06/Playing-TRex-game-using-facial-recognition">
@@ -204,33 +203,25 @@ AHOY!!
 ## 🫱🏻‍🫲🏻Let's Connect🫱🏻‍🫲🏻
  
  <p align="center">
-<a href="https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/">
-<img border="0" alt="Hrugved's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png"/>
+<a href="https://github.com/Hrishinikam1729">
 </a>
 
-<a href="https://www.linkedin.com/in/hrugved06/">
+<a href="https://linkedin.com/in/hrishi-n-2600672a6/">
  
-<img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+<img border="0" alt="Hrishi's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
 </a>
 
-<a href="https://twitter.com/HrugVed_">
-<img border="0" alt="Hrugvedtwts" src="https://img.icons8.com/nolan/40/twitter.png"/>
+ <a href="https://twitter.com/hrishi_ns_">
+  
+<img border="0" alt="Hrishi's_tweets" src="https://img.icons8.com/nolan/40/twitter.png"/>
 </a>
 
-<a href="https://www.instagram.com/_hrugved_/">
-<img border="0" alt="Hrugved's IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
+ <a href="https://discord.gg/XC7b6cN5">
+<img border="0" alt="hrishi.ns" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
 </a>
 
-<a href="https://t.me/Dev1ce_06">
-<img border="0" alt="Hrugved's TG" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
-</a>
-
-<a href="https://discord.com/invite/5RmWdZKpe6">
-<img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
-</a>
-
-<a href="mailto:geeky.hrugved143@gmail.com">
-<img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+<a href="mailto:hrishi.ns25@gmail.com">
+<img border="0" alt="Hrishi's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
 </a>
 </p>
  
