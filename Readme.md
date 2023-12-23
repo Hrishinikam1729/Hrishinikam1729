@@ -1,57 +1,45 @@
 <div align="center">
  
-## Hrugved Here😃
+AHOY!!
 
 </div>
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
-- 👋🏻 Sup! I’m <a href="https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/">HrugVed</a> ✌🏻 <br/> 
-- 👀 I’m proficient in Data Science, Machine Learning, Open Source, SQL 😄<br/>
-- 🌱 Learning and implementing projects using Azure and AWS services i.e SageMaker, DeepRacer 🤵🏻 <br/>
-- 👨🏻‍💻 Currently exploring Open Source field 📱</br>
+- 👋🏻 Sup! I’m <a>Hrishi</a> ✌🏻 <br/> 
+- 👀 I’m proficient in FullStackDevelopment 😄<br/>
+- 🌱 Learning and implementing projects using ASP.NET, SprintBoot MVC, MERN Stack, AWS services 🤵🏻 <br/>
 - 💞️ I’m open for collaboration on every interesting project/stuff ✌🏻<br/>
 - 📫 You can contact me through any of these socials IDs 😁👇🏻  <br/>
 
 <!-----Social Accounts------>
 
 <p align="center">
-<a href="https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/">
-<img border="0" alt="Hrugved's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
+<a href="https://github.com/Hrishinikam1729">
 </a>
 
-<a href="https://www.linkedin.com/in/hrugved06/">
+<a href="https://linkedin.com/in/hrishi-n-2600672a6/">
  
-<img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+<img border="0" alt="Hrishi's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
 </a>
 
-<a href="https://twitter.com/HrugVed_">
-<img border="0" alt="Hrugvedtwts" src="https://img.icons8.com/nolan/40/twitter.png"/>
+ <a href="https://twitter.com/hrishi_ns_">
+  
+<img border="0" alt="Hrishi's_tweets" src="https://img.icons8.com/nolan/40/twitter.png"/>
 </a>
 
-<a href="https://www.instagram.com/_hrugved_/">
-<img border="0" alt="Hrugved's IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
+ <a href="https://discord.gg/XC7b6cN5">
+<img border="0" alt="hrishi.ns" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
 </a>
 
-<a href="https://t.me/Dev1ce_06">
-<img border="0" alt="Hrugved's TG" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
-</a>
-
-<a href="https://discord.com/invite/5RmWdZKpe6">
-<img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
-</a>
-
-<a href="mailto:geeky.hrugved143@gmail.com">
-<img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+<a href="mailto:hrishi.ns25@gmail.com">
+<img border="0" alt="Hrishi's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
 </a>
 
 </p>
 
 <div align="center">
 
-### **Scan Me**
-
-<a href="https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/"><img src="assets/qrcode_hrugved06.github.io.png" width="200" height="200" alt="WebsiteQR"></a>
 
 </div>
 
