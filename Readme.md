@@ -108,16 +108,16 @@ AHOY!!
  <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=Hrishinikam1729&repo=Weather-App&theme=dark" />
 </a>
 
-<a href="https://github.com/hrugved06/Playing-TRex-game-using-facial-recognition">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=TRex-game-using-facial-recognition&theme=dark" />
+<a href="https://github.com/Hrishinikam1729/Cdac_Project_AgriConnect.git">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=Hrishinikam1729&repo=Cdac_Project_AgriConnect&theme=dark" />
 </a>
 
-<a href="https://github.com/hrugved06/Discbot_ai">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=Discbot_ai&theme=dark" />
+<a href="https://github.com/Hrishinikam1729/JAVA.git>
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=Hrishinikam1729&repo=JAVA&theme=dark" />
 </a>
 
-<a href="https://github.com/hrugved06/Team-PSI-Portfolio-webIO">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=Team-PSI-Portfolio-webIO&theme=dark" />
+<a href="https://github.com/Hrishinikam1729/WPT.git">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=Hrishinikam1729&repo=WPT&theme=dark" />
 </a>
  
  </div>
@@ -131,17 +131,17 @@ AHOY!!
 
 ## Contribution Graph 
 
-[![Hrugved's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hrugved06&bg_color=000000&color=ffffff&line=00ff55&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+[![Hrishi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hrishinikam1729&bg_color=000000&color=ffffff&line=00ff55&point=ffffff&area=true&hide_border=true)](https://github.com/Hrishinikam1729/github-readme-activity-graph) 
  <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 
 </div>
 
  <div align="center">
 
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrugved06&theme=github_dark">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hrishinikam1729&theme=github_dark">
  
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hrugved06&theme=github_dark">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hrugved06&theme=github_dark">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hrishinikam1729&theme=github_dark">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hrishinikam1729&theme=github_dark">
  
 <div/>
 
@@ -152,17 +152,16 @@ AHOY!!
  
  ## Programming Languages used 
 
-
- <a href="https://www.python.org/">
- <img border="0" alt="Python" src="https://img.icons8.com/color//000000/python--v2.png"/>
+<a href="https://www.java.com/">
+ <img border="0" alt="Java" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-500x313.png"/>
  </a>
 
  <a href="https://www.cplusplus.com/">
  <img border="0" alt="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
  </a>
 
- <a href="https://jupyter.org/">
- <img border="0" alt="Juyter" src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_jupyter_icon_130494.png"/>
+ <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/">
+ <img border="0" alt="C Sharp" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
  </a>
 
  <a href="https://html.com/#What_is_HTML">
