@@ -105,14 +105,14 @@ AHOY!!
 ## Repository Overview :
 
 <a href="https://github.com/Hrishinikam1729/Weather_App.git">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=Hrishinikam1729&repo=Weather-App&theme=dark" />
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=Hrishinikam1729&repo=Weather_App&theme=dark" />
 </a>
 
 <a href="https://github.com/Hrishinikam1729/Cdac_Project_AgriConnect.git">
  <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=Hrishinikam1729&repo=Cdac_Project_AgriConnect&theme=dark" />
 </a>
 
-<a href="https://github.com/Hrishinikam1729/JAVA.git>
+<a href="https://github.com/Hrishinikam1729/JAVA.git">
  <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=Hrishinikam1729&repo=JAVA&theme=dark" />
 </a>
 
