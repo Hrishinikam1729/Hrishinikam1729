@@ -112,8 +112,8 @@ AHOY!!
  <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=Hrishinikam1729&repo=Cdac_Project_AgriConnect&theme=dark" />
 </a>
 
-<a href="https://github.com/Hrishinikam1729/JAVA.git">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=Hrishinikam1729&repo=JAVA&theme=dark" />
+<a href="https://github.com/Hrishinikam1729/DSA-JAVA.git">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=Hrishinikam1729&repo=DSA-JAVA&theme=dark" />
 </a>
 
 <a href="https://github.com/Hrishinikam1729/WPT.git">
